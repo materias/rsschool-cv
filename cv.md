@@ -34,6 +34,10 @@ getSelect();
 
 ## Experience
 
+Aug'18 - present
+**EPO Signal, Ltd.**
+*Technical translator*
+
 Jul'18 - present  
 **EPO Signal, Ltd.**  
 *Marketing Specialist*
