@@ -50,7 +50,9 @@ Sep'11 - Dec'14
 Faculty of Computer Science and Information Technologies
 
 ## English
-Approved level - C1
+Approved level - C1  
+- Learning English throughout school and university
+- 6-month courses at GoEnglish! language school with native speakers
 
 ## Other languages
 Spanish - B1  
