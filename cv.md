@@ -34,6 +34,11 @@ getSelect();
 
 ## Experience
 
+Jul'18 - present  
+**EPO Signal, Ltd.**  
+Marketing Specialist
+
+
 ## Education
 
 Sep'17 - Jun'20  
