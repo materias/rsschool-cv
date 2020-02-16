@@ -36,7 +36,7 @@ getSelect();
 
 Jul'18 - present  
 **EPO Signal, Ltd.**  
-Marketing Specialist
+*Marketing Specialist*
 
 
 ## Education
