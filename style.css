@@ -1,0 +1,62 @@
+body
+{
+    width: 1024px;
+    margin: 0 auto;
+
+    border: 1px black solid;
+}
+
+h2
+{
+    font-family: 'Raleway', sans-serif;
+    font-weight: bold;
+
+    padding-top: 5px;
+    padding-left: 50px;
+}
+
+h1
+{
+    font-family: 'Raleway', sans-serif;
+
+    padding-left: 50px;
+
+    color: #940a5a;
+}
+
+p
+{
+    font-family: 'Raleway', sans-serif;
+
+    padding-top: 2px;
+    padding-left: 50px;
+}
+
+p.summary
+{
+    width: 600px;
+
+    text-align: justify;
+}
+
+ul
+{
+    font-family: 'Raleway', sans-serif;
+
+    padding-left: 100px;
+}
+
+.image
+{
+    float: right;
+
+    width: 200px;
+    height: 1500px;
+    margin-right: 60px;
+    padding-top: 60px;
+}
+
+hr
+{
+    width: 730px;
+}
