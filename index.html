@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css?family=Raleway:400,700,800&display=swap" rel="stylesheet">
+</head>
+<body>
+ <div class="image">
+     <img src="profile_photo.jpg" alt="photo" height="220" width="200">
+</div>
+<h1>Valeria Matieva</h1>
+<hr>
+<p class="contacts">+79271218027 <br> foystina@gmail.com <br> Telegram: @foystina</p>
+
+<h2>Summary</h2>   
+<p class="summary">I'm currently working as a Marketing Specialist. <br>
+    The main qualities that help me in my work 
+    are positive attitude, communication skills 
+    and the ability to learn quickly.
+    I always break new ground with interest, 
+    I like to acquire new skills and knowledge 
+    in a short time.</p>
+
+<h2>Skills</h2>
+<ul>
+    <li>HTML5</li>
+    <li>CSS3</li>
+    <li>JavaScript</li>
+    <li>C++</li>
+    <li>SQL</li>
+</ul>
+
+<h2>Code examples</h2>
+<pre>
+    var btn = document.getElementById("btn"); btn.addEventListener("click", function (event) {
+        event.preventDefault();
+        if (!showErrorMessage()) {
+            var output = document.getElementById("sensor_cod");
+            output.innerHTML = "Не все данные введены";
+            document.getElementById("sensor_price").innerHTML = "";
+        }
+        else {
+            getCodOfSensor();
+            getPriceSensor();
+        }
+        document.getElementById("sensor_cod").scrollIntoView(true);
+    });
+    getSelect();
+</pre>
+<h2>Experience</h2>
+<p>Jul'18 - present<br>
+    <b>EPO Signal, Ltd.</b><br>
+    <i>Marketing Specialist</i></p>
+
+<h2>Education</h2>
+<p>Sep'17 - Jun'20<br>
+<b>Saratov State University</b><br>
+Faculty of Mathematics and Mechanics</p><br>
+
+<p>Sep'11 - Dec'14<br>
+<b>Saratov State University</b><br>
+Faculty of Computer Science and Information Technologies</p><br>
+
+<h2>English</h2>
+<p>Approved level - C1</p>
+<ul>
+    <li>Learning English throughout school and university</li>
+    <li>6-month courses at GoEnglish! language school with native speakers</li>
+</ul>
+
+<h2>Other languages</h2>
+<p>Spanish - B1<br>
+    Mar'14 - May'16<br>
+    Saratov State University</p><br>
+
+
+<p>Chinese - A1<br>
+    Jan'18 - Feb'19<br>
+    Center for Youth Innovation Creativity</p>   <br>
+
+<script src="script.js"></script>
+</body>
+</html>
